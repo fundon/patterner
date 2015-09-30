@@ -9,7 +9,7 @@
   "author": "Fangdun Cai <cfddream@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "electron-prebuilt": "^0.33.3",
+    "electron-prebuilt": "^0.33.3"
   },
   "dependencies": {
     "geopattern": "^1.2.3",
