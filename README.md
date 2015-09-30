@@ -11,3 +11,7 @@ Change Desktop Background with `pattern` if you want.
 
 * [x] [geopattern](https://github.com/btmills/geopattern)
 * [ ] [trianglify](https://github.com/qrohlf/trianglify)
+
+
+## Installation
+
